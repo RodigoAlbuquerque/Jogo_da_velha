@@ -33,6 +33,8 @@ div{
     text-align: center;
     vertical-align: middle;
     font-size: 5rem;
+
+    cursor: pointer;
 }
 p{
     font: bold 1.5rem helvetica ;
